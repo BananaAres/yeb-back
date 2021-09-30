@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca22ddd-6bc0-49d6-b71f-8ccb4bc6f745" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cca22ddd-6bc0-49d6-b71f-8ccb4bc6f745" name="Default Changelist" comment="B站项目云E办后端代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -234,10 +233,10 @@
     </state>
     <state x="666" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1628058273110" />
     <state x="666" y="397" width="462" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1680.95.1680.1025/0.25.1792.1005@0.25.1792.1005" timestamp="1627214424159" />
-    <state x="364" y="95" key="CommitChangelistDialog2" timestamp="1632992849787">
+    <state x="364" y="95" key="CommitChangelistDialog2" timestamp="1632995830618">
       <screen x="0" y="25" width="1792" height="1002" />
     </state>
-    <state x="364" y="95" key="CommitChangelistDialog2/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632992849787" />
+    <state x="364" y="95" key="CommitChangelistDialog2/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632995830618" />
     <state width="1750" height="232" key="GridCell.Tab.0.bottom" timestamp="1628350216267">
       <screen x="0" y="25" width="1792" height="1005" />
     </state>
@@ -322,6 +321,14 @@
       <screen x="0" y="25" width="1792" height="1002" />
     </state>
     <state x="394" y="148" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1680.132.1680.1025/0.25.1792.1002@0.25.1792.1002" timestamp="1628070382706" />
+    <state x="687" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632995573625">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="687" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632995573625" />
+    <state x="700" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1632995845183">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="700" y="419" key="git4idea.remote.GitConfigureRemotesDialog/1792.65.1920.1055/0.25.1792.1002@0.25.1792.1002" timestamp="1632995845183" />
     <state x="302" y="183" key="new project wizard" timestamp="1628240290562">
       <screen x="0" y="25" width="1792" height="1002" />
     </state>
