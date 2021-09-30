@@ -23,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -33,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1vd7ZDmk3uwBqsS8PLfHyG2CBg5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -173,11 +177,24 @@
       <workItem from="1628351942104" duration="113000" />
       <workItem from="1629386671678" duration="715000" />
       <workItem from="1630918329811" duration="5000" />
+      <workItem from="1632992322678" duration="309000" />
     </task>
+    <task id="LOCAL-00001" summary="B站项目云E办后端代码">
+      <created>1632992627732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632992627732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="B站项目云E办后端代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="B站项目云E办后端代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="384" y="104" key="#Project_Structure" timestamp="1628351960558">
