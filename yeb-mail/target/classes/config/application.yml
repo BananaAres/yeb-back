@@ -1,0 +1,33 @@
+server:
+  port: 8082
+
+spring:
+  mail:
+    host: smtp.163.com
+    protocol: smtp
+    default-encoding: utf-8
+    password: DNREMPKNOBOZNHJQ
+    username: a603306512@163.com
+    port: 25
+
+  rabbitmq:
+    username: admin
+    password: 6585962sdh
+    host: 59.110.138.128
+    port: 5672
+    listener:
+      simple:
+        acknowledge-mode: manual
+
+  redis:
+    host: 59.110.138.128
+    port: 6379
+    password: 6585962sdh
+    database: 0
+    connect-timeout: 10000ms
+    lettuce:
+      pool:
+        max-active: 1024
+        max-wait: 10000ms
+        max-idle: 200
+        min-idle: 5
