@@ -7,8 +7,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://59.110.138.128:3306/yeb?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&failOverReadOnly=false&serverTimezone=Asia/Shanghai
-    username: root
-    password: Sdh512!@#
+    username: yourusername
+    password: yourpassword
     hikari:
       # 连接池名
       pool-name: DateHikariCP
@@ -27,9 +27,9 @@ spring:
       # 测试连接是否可用的查询语句
       connection-test-query: select 1
   redis:
-    host: 192.168.33.10
-    port: 6379
-    password: 6585962sdh
+    host: yourhost
+    port: yourport
+    password: yourpassword
     database: 0
     timeout: 10000ms
     lettuce:
